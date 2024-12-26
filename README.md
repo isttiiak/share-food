@@ -4,7 +4,6 @@
 
 **Share Food** is a community-driven platform designed to combat food waste by enabling the sharing of surplus food. The platform connects individuals with extra food to those in need, promoting sustainability, community engagement, and food security.
 
-
 ### 🎯 Purpose
 
 The primary purpose of Share Food is to:
@@ -48,7 +47,6 @@ The primary purpose of Share Food is to:
 - **Server-Side:** The Express.js application processes API requests, performs logic operations, and communicates with MongoDB.
 - **Data Storage:** MongoDB stores all related data.
 - **External Integrations:** Integration with APIs for maps, notifications, and potentially AI services for food matching.
-
 
 ## 📞Contact
 - For more details, please contact isttiiak@gmail.com
